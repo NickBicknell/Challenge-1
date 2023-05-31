@@ -6,16 +6,16 @@ The Challenge-1 project was an *On-the-job ticket* to refactor the existing code
 
 ## Screenshot/Image
 
-![alt text] (./assets/images/screenshots/challenge1-html1.png)
+![alt text] (C:\Users\Nicho\code\Challenge-1\assets\images\screenshots\challenge1-html1.png)
 
-![alt text] (./assets/images/screenshots/challenge1-html2.png)
+![alt text] (C:\Users\Nicho\code\Challenge-1\assets\images\screenshots\challenge1-html2.png)
 
-![alt text] (./assets/images/screenshots/challenge1-css1.png)
+![alt text] (C:\Users\Nicho\code\Challenge-1\assets\images\screenshots\challenge1-css1.png)
 
-![alt text] (./assets/images/screenshots/challenge1-css2.png)
+![alt text] (C:\Users\Nicho\code\Challenge-1\assets\images\screenshots\challenge1-css2.png)
 
-![alt text] (./assets/images/screenshots/challenge1-css3.png)
+![alt text] (C:\Users\Nicho\code\Challenge-1\assets\images\screenshots\challenge1-css3.png)
 
 ## Link to Deployed Application
 
-[title](https://nickbicknell.github.io/Challenge-1/)
+[Challenge 1 Application](https://nickbicknell.github.io/Challenge-1/)
