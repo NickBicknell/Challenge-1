@@ -6,15 +6,15 @@ The Challenge-1 project was an *On-the-job ticket* to refactor the existing code
 
 ## Screenshot/Image
 
-![alt text] (C:\Users\Nicho\code\Challenge-1\assets\images\screenshots\challenge1-html1.png?raw=true)
+![HTML](./assets/images/screenshots/challenge1-html1.png?raw=true)
 
-![alt text] (C:\Users\Nicho\code\Challenge-1\assets\images\screenshots\challenge1-html2.png?raw=true)
+![HTML](./assets/images/screenshots/challenge1-html2.png?raw=true)
 
-![alt text] (C:\Users\Nicho\code\Challenge-1\assets\images\screenshots\challenge1-css1.png?raw=true)
+![CSS](./assets/images/screenshots/challenge1-css1.png?raw=true)
 
-![alt text] (C:\Users\Nicho\code\Challenge-1\assets\images\screenshots\challenge1-css2.png?raw=true)
+![CSS](./assets/images/screenshots/challenge1-css2.png?raw=true)
 
-![alt text] (C:\Users\Nicho\code\Challenge-1\assets\images\screenshots\challenge1-css3.png?raw=true)
+![CSS](./assets/images/screenshots/challenge1-css3.png?raw=true)
 
 ## Link to Deployed Application
 
