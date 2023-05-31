@@ -6,6 +6,10 @@ The Challenge-1 project was an *On-the-job ticket* to refactor the existing code
 
 ## Screenshot/Image
 
+![Webpage](./assets/images/screenshots/challenge1-webpage1.png?raw=true)
+
+![Webpage](./assets/images/screenshots/challenge1-webpage2.png?raw=true)
+
 ![HTML](./assets/images/screenshots/challenge1-html1.png?raw=true)
 
 ![HTML](./assets/images/screenshots/challenge1-html2.png?raw=true)
