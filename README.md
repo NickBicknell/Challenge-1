@@ -22,4 +22,4 @@ The Challenge-1 project was an *On-the-job ticket* to refactor the existing code
 
 ## Link to Deployed Application
 
-[Challenge 1 Application](https://nickbicknell.github.io/Challenge-1/)
+[Horiseon Marketing Agency Link](https://nickbicknell.github.io/Horiseon-Marketing-Agency/)
